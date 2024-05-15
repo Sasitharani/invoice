@@ -2,7 +2,7 @@
 name: User story format
 about: Learning how to put user stories
 title: ''
-labels: ''
+labels: 'Version 1'
 assignees: ''
 
 ---
